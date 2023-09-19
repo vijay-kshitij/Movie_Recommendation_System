@@ -20,3 +20,9 @@
 
 ### Example:
 ![Screenshot 2023-09-19 at 3 48 32 PM](https://github.com/vijay-kshitij/Movie_Recommendation_System/assets/51355853/f11dd393-6e04-49af-8f1d-bf45b9cfb8db)
+
+![Screenshot 2023-09-19 at 3 49 56 PM](https://github.com/vijay-kshitij/Movie_Recommendation_System/assets/51355853/ebc95fed-48c9-4d92-8704-cfa4f6633783)
+
+![Screenshot 2023-09-19 at 3 49 14 PM](https://github.com/vijay-kshitij/Movie_Recommendation_System/assets/51355853/80d1bac2-388e-4a4f-8db7-3be2a7f6bcdf)
+
+
