@@ -1,10 +1,4 @@
 ## Project Proposal
----
-### Team 10
-*   Kshitij Vijayvergiya
-*   Mubin Ashfaq Tirsaiwala
-*   Sourav Sankpal
-*   Prathamesh Sunil Kakade
 
 ### Definition:
 `Creating Movie Recommender Engine, by collecting, analyzing and modeling data from various sources and predicting the users' film preferences based on their previously watched movies.`
