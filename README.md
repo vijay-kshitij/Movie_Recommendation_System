@@ -18,3 +18,5 @@
 *   Data_Visualization: Jupyter Notebook code of visualization
 *   cleaned_data.csv: CSV file of the cleaned dataset
 
+### Example:
+![Screenshot 2023-09-19 at 3 48 32 PM](https://github.com/vijay-kshitij/Movie_Recommendation_System/assets/51355853/f11dd393-6e04-49af-8f1d-bf45b9cfb8db)
