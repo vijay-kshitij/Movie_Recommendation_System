@@ -11,3 +11,10 @@
 
 ### Anticipated Data:
 *   Collecting movie data from various sources such as Kaggle, google datasets, Hugging Face data repository, IMDB, Rotten Tomatoes, Git-Hub.
+
+### Files Description:
+*   final_data_cleaning: Jupyter Notebook code of cleaning/pre-procesing the dataset.
+*   Data_Modelling: Jupyter Notebook code of training and testing
+*   Data_Visualization: Jupyter Notebook code of visualization
+*   cleaned_data.csv: CSV file of the cleaned dataset
+
